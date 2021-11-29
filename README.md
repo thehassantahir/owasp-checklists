@@ -1,2 +1,3 @@
 # wst-checklist
-QWASP Web Security Testing Checklist - Assessment # 01
+QWASP Web Security Testing Checklist
+https://github.com/OWASP/wstg/tree/master/document
